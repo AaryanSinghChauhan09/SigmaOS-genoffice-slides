@@ -1,0 +1,16 @@
+[component]
+name = "SigmaOS-genoffice-slides"
+tier = 3
+stability = "scaffold"
+language = "rust"
+description = "GenOffice presentation editor — slide master, layouts, transitions, speaker notes, and ODP/PPTX export"
+upstream = []
+
+[contract]
+provides = ["presentation-engine", "slide-deck"]
+depends_on = []
+
+[maturity]
+status = "Scaffold"
+test_evidence = "Compiles"
+next_milestone = "Verification test suite"

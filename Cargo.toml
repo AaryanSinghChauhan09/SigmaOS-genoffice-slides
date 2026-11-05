@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_genoffice_slides"
+version = "0.1.0"
+edition = "2021"
+description = "GenOffice presentation editor — slide master, layouts, transitions, speaker notes, and ODP/PPTX export"
+
+[lib]
+name = "sigmaos_genoffice_slides"
+path = "src/lib.rs"
