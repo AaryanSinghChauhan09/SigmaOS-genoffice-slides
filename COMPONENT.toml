@@ -3,7 +3,7 @@ name = "SigmaOS-genoffice-slides"
 tier = 3
 stability = "scaffold"
 language = "rust"
-description = "GenOffice presentation editor — slide master, layouts, transitions, speaker notes, and ODP/PPTX export"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
