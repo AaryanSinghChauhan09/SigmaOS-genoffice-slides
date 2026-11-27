@@ -1,0 +1,5 @@
+[component]
+name = "SigmaOS-genoffice-slides"
+version = "0.1.0"
+category = "productivity"
+description = "SigmaOS GenOffice — Presentation slides component"
